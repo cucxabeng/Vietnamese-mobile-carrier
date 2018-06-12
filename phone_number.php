@@ -1,6 +1,7 @@
 <?php
 
 $carriers_number = array(
+    '086'  => 'Viettel',
     '096'  => 'Viettel',
     '097'  => 'Viettel',
     '098'  => 'Viettel',
@@ -13,6 +14,7 @@ $carriers_number = array(
     '0168' => 'Viettel',
     '0169' => 'Viettel',
     
+    '089'  => 'Mobifone',
     '090'  => 'Mobifone',
     '093'  => 'Mobifone',
     '0120' => 'Mobifone',
@@ -21,6 +23,7 @@ $carriers_number = array(
     '0126' => 'Mobifone',
     '0128' => 'Mobifone',
     
+    '088'  => 'Vinaphone',
     '091'  => 'Vinaphone',
     '094'  => 'Vinaphone',
     '0123' => 'Vinaphone',
